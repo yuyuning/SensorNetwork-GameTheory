@@ -1513,9 +1513,15 @@ public class SensorNetworkGameTheroy {
 					tempList.add(node1);
 					adjList.put(node2, tempList);
 					if (node1 > node2){
-						links2.put(new String("(" + node2 + ", " + node1 + ")"), new Link(new Edge(node2, node1, 1), distance, getRSCost(distance), getTCost(distance), getRSCost(distance), energy));
+						links2.put(new String("(" + node2 + ", " + node1 + ")"),
+								new Link(new Edge(node2, node1, 1), distance,
+										getRSCost(distance), getTCost(distance),
+										getRSCost(distance), energy));
 					} else {
-						links2.put(new String("(" + node1 + ", " + node2 + ")"), new Link(new Edge(node1, node2, 1), distance, getRSCost(distance), getTCost(distance), getRSCost(distance), energy));
+						links2.put(new String("(" + node1 + ", " + node2 + ")"),
+								new Link(new Edge(node1, node2, 1), distance,
+										getRSCost(distance), getTCost(distance),
+										getRSCost(distance), energy));
 					}
 				}
 			}
