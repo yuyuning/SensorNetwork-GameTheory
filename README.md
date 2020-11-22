@@ -9,4 +9,4 @@ This program required the following external library:
 User needs to enter basic iformation of the sensor network such as: data storage per node and the energy capacity. After the sensor network has generated, user need to input which amplifier want to modify and enter the amplifier value.
 
   1. Enter the basic information:
-  
+    ![image](https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/inputs.png)
