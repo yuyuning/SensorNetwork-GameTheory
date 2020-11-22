@@ -1,5 +1,5 @@
 # SensorNetwork-GameTheory
-
+  This program is used to simulate the results for the minimize energy consumption. We suppose all nodes have finite energy and limite storage capacity.
 
 
 ## How to run
