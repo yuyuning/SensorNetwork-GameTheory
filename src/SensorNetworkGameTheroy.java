@@ -24,7 +24,7 @@ import ilog.cplex.IloCplex.UnknownObjectException;
  * preservation path. It will calculate the cost, payment
  * utility, and total energy cost for the node.
  *
- * @author  Shang-Lin Hsu and Yu-ning Yu
+ * @author  Yu-ning Yu
  * @since   2018-09-09
  */
 
