@@ -11,7 +11,7 @@ User needs to enter basic iformation of the sensor network such as: data storage
   1. Run SensorNetworkGameTheory.java and follow the steps.
   
   2. Enter the basic information:  
-    <div align=center><img width="300" height="300" src="https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/inputs.png"/></div>
+    <div align=center><img width="450" height="300" src="https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/inputs.png"/></div>
     
   3. The program will generate nodes and show the edge information:  
     ![image](https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/graph.png)
