@@ -14,7 +14,7 @@ User needs to enter basic iformation of the sensor network such as: data storage
     <div align=center><img width="450" height="300" src="https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/inputs.png"/></div>
     
   3. The program will generate nodes and show the edge information:  
-    <div align=center><img width="300" height="300" src="https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/graph.png"/></div>
+    <div align=center><img width="450" height="450" src="https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/graph.png"/></div>
     <div align=center><img width="450" height="300" src="https://github.com/yuyuning/SensorNetwork-GameTheory/blob/master/img/connectEdge.png"/></div>
     
   4. Choose which amplifier need to modify and enter the amplifier value:  
