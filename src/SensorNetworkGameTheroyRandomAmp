@@ -417,9 +417,21 @@ public class SensorNetworkGameTheroy {
 
 			if (method == 4) {
 				Random rand = new Random();
-				amp = (double) rand.nextInt(100) / 10;
-				ampR = (double) rand.nextInt(100) / 10;
-				ampS = (double) rand.nextInt(100) / 10;
+				//random[0.1 - 1]
+				amp = (double) rand.nextInt(10) / 10;
+				ampR = (double) rand.nextInt(10) / 10;
+				ampS = (double) rand.nextInt(10) / 10;
+				
+//				//truth-telling
+//				amp = 1;
+//				ampR = 1;
+//				ampS = 1;
+				
+//				//fix lying
+//				amp = 0.6;
+//				ampR = 0.6;
+//				ampS = 0.6;
+				
 			}
 			if (amp == 0) {
 				amp += 0.1;
